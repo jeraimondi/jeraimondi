@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📫 How to reach me:
+* <img src='logos/LI-In-Bug.png' alt='LI Logo' style='width:30px; height:30px;' /> [in/jeraimondi](https://www.linkedin.com/in/jeraimondi)
+
 <!--
 **jeraimondi/jeraimondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
