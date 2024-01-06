@@ -8,6 +8,7 @@
   - Steel Manufacturing, Education, Banking/Financial Services, Critical Infrastructure/Defense
 - 💬 Ask me about AI, Machine Learning, Neural Networks, Deep Learning, Computer Vision, and Natural Language Processing
   - You can also ask me about my dog, Booker! 🐕
+- ⚡ Fun fact: I'm currently learning to play the piano 🎹
 
 #### ✔️ A few of my recent contributions:
 - https://github.com/jeraimondi/aai-cv-obj-detect-fashion - Computer vision (object detection) project, detecting fashion objects using multiple model architectures. My area of focus is on RetinaNet and development of a web application using Streamlit <img src='logos/streamlit-mark-color.png' alt='Streamlit Logo' style='width:23px; height:13px;' />.
